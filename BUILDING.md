@@ -1,4 +1,4 @@
-# ESBMC Build Guide
+# ESBMC Build Guide 
 
 This is a guide on how to build ESBMC and its supported solvers.
 
